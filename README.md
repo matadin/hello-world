@@ -1,5 +1,5 @@
 # hello-world
-first repository for learning Github
+first repository - learning Github
 
 bla bla bla, some changes to test making changes.
 
